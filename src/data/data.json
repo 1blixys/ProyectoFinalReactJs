@@ -1,0 +1,112 @@
+[
+  {
+      "id": 1,
+      "titulo": "Caipirinha",
+      "descripcion": "Trago Caipirinha",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/1200px-15-09-26-RalfR-WLC-0048.jpg",
+      "categoria": "tragos",  
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 2,
+      "titulo": "Daiquiri",
+      "descripcion": "Trago Daiquiri",
+      "imagen": "https://www.liquor.com/thmb/ffYicPLJk00SWKg2shV67TPHV74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Daiquiri_3000x3000_primary-206eb2330cb04852ab7d780dcf3d55ef.jpg",
+      "categoria": "tragos",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 3,
+      "titulo": "Mojito",
+      "descripcion": "Trago Mojito",
+      "imagen": "https://s1.eestatic.com/2015/01/22/cocinillas/cocinillas_5259499_115752738_2448x3264.jpg",
+      "categoria": "tragos",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 4,
+      "titulo": "Appleton Ambassador",
+      "descripcion": "Trago Appleton Ambassador",
+      "imagen": "https://www.mynslc.com/-/media/NSLC/MyNSLC/Recipes/Image_Appleton-Ambassador2.jpg?mw=500&hash=76342C27E9BE5594FE8DA816D2782EBE",
+      "categoria": "tragos",
+      "precio": 1000,
+      "stock": 10
+  },
+  
+  {
+      "id": 5,
+      "titulo": "Dada",
+      "descripcion": "Vino Dada",
+      "imagen": "https://vinotecaligier.com/media/catalog/product/cache/73269a27812eefec516431430aa0b457/b/e/be72157_64wumynl7rg6pkfp.jpg",
+      "categoria": "vinos",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 6,
+      "titulo": "Deseado",
+      "descripcion": "Vino Deseado",
+      "imagen": "https://www.espaciovino.com.ar/media/default/0001/54/thumb_53133_default_medium.jpeg",
+      "categoria": "vinos",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 7,
+      "titulo": "Pispi",
+      "descripcion": "Vino Pispi",
+      "imagen": "https://cepadevinos.com/wp-content/uploads/2017/07/Pispi_Blend_xpgha2.jpg",
+      "categoria": "vinos",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 8,
+      "titulo": "Alma Mora",
+      "descripcion": "Vino Alma Mora",
+      "imagen": "https://fincalasmoras.com.ar/almamora/img/mensajes/alma-malbec-m.png",
+      "categoria": "vinos",
+      "precio": 1000,
+      "stock": 10
+  },
+  
+  {
+      "id": 9,
+      "titulo": "Coca Cola",
+      "descripcion": "Bebida Coca Cola",
+      "imagen": "https://quirinobebidas.com.ar/wp-content/uploads/2022/10/productos-2022-10-04T111414.437.png",
+      "categoria": "bebidas",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 10,
+      "titulo": "Sprite",
+      "descripcion": "Bebida Sprite",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/144/141/products/whatsapp-image-2021-08-25-at-11-08-571-f2321c146eb51f1dac16299005725116-480-0.jpeg",
+      "categoria": "bebidas",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 11,
+      "titulo": "Pepsi",
+      "descripcion": "Bebida Pepsi",
+      "imagen": "https://dcdn.mitiendanube.com/stores/001/611/627/products/1500-regular-011-17aae1c17219bb3b8316179114560247-640-0.png",
+      "categoria": "bebidas",
+      "precio": 1000,
+      "stock": 10
+  },
+  {
+      "id": 12,
+      "titulo": "Fanta",
+      "descripcion": "Bebida Fanta",
+      "imagen": "https://tusuper.com.ar/image/cache/catalog/P2020/Bebidas/FANTA-NARANJA-1.5lts-800x800.png",
+      "categoria": "bebidas",
+      "precio": 1000,
+      "stock": 10
+  }
+]
