@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+https://github.com/1blixys/ProyectoFinalReactJs/assets/127347021/61732924-2e15-4c7e-b307-0160032d8954
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
